@@ -4,7 +4,7 @@ name := "sbt-getting-started"
 
 ThisBuild / version := "1.0"
 
-scalaVersion := "2.13.5"
+scalaVersion := "2.12.2"
 
 ThisBuild / licenses ++= Seq(("MIT", url("http://opensource.org/licenses/MIT")))
 
